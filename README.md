@@ -1,2 +1,10 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=287580&assignment_repo_type=GroupAssignmentRepo)
-testing
+Project title : Online computer sales and servies 
+
+A brief overview :
+                   This project deals with buying of laptops and PC’s online . Customer can choose the laptop by searching it according to brand or according to specifications and also there will be an option to compare two laptops and some basic options like adding it in cart , moving to wishlist etc. If you are confused or don’t know about laptops there will be an option to connect to our technician to guide you towards your laptop or PC . If there is any technical issue faced by our customers or if they need any further changes in the laptop or PC there is an option of services where they just need to upload the invoice and our technician will be at your doorstep on the provided date and time . 
+                   
+Team Members :
+Suhana Mullanavar      2GI18CS163
+Swagat Sapakale        2GI18CS165
+Rushikesh Suryawanshi  2GI18CS165
+Vishwanath Honawad     2GI18CS180
